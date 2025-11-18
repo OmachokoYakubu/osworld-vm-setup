@@ -1,0 +1,7 @@
+VM Name: Ubuntu 64-bit
+RAM: 8192 MB
+CPU Cores: 2
+Disk Size: 40 GB
+3D Acceleration: yes
+ISO Path: /home/replica/vmware/Ubuntu 64-bit
+

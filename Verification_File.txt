@@ -1,0 +1,23 @@
+=== lsb_release -a ===
+Distributor ID:	Ubuntu
+Description:	Ubuntu 22.04.5 LTS
+Release:	22.04
+Codename:	jammy
+
+=== uname -a ===
+Linux chi-virtual-machine 6.8.0-87-generic #88~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Tue Oct 14 14:03:14 UTC 2 x86_64 x86_64 x86_64 GNU/Linux
+
+=== df -h ===
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           790M  1.9M  788M   1% /run
+/dev/sda3        39G   12G   25G  32% /
+tmpfs           3.9G     0  3.9G   0% /dev/shm
+tmpfs           5.0M  4.0K  5.0M   1% /run/lock
+/dev/sda2       512M  6.1M  506M   2% /boot/efi
+tmpfs           790M  104K  790M   1% /run/user/1000
+/dev/sr0        157M  157M     0 100% /media/chi/CDROM
+/dev/sr1        4.5G  4.5G     0 100% /media/chi/Ubuntu 22.04.5 LTS amd64
+
+=== XDG_SESSION_TYPE ===
+wayland
+
